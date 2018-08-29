@@ -7,7 +7,7 @@
     <list>
         <mapping class="com.pantsweather.android.db.County"/>
         <mapping class="com.pantsweather.android.db.City"/>
-        <mapping class="com.pantsweather.android.db.County"/>
+        <mapping class="com.pantsweather.android.db.Province"/>
     </list>
 
 </litepal>
